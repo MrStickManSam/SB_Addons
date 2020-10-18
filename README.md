@@ -1,2 +1,2 @@
 # SB_Addons
-Addons for SupportBot - @1tzermerald/SupportBot
+Addons for SupportBot - https://github.com/1tzemerald/SupportBot

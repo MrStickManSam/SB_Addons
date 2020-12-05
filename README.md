@@ -1,2 +1,3 @@
-# SB_Addons
-Addons for SupportBot - https://github.com/1tzemerald/SupportBot
+# ChangeLog addon!
+## A simple changelog command.
+A very simple changelog command, great for Minecraft servers!

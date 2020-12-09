@@ -1,0 +1,36 @@
+####################
+# BOT INFO COMMAND #
+####################
+
+# Addon created by SamCodesStuff#5225
+# Support: https://discord.gg/tfsAK9hR24
+
+####################
+# COMMAND SETTINGS #
+####################
+name: "botinfo"
+description: "Shows bot information!"
+
+#########
+# EMBED #
+#########
+embed:
+  title: "Bot Information"
+  # set to "false" to disable.
+  description: "This addon shows you information on the bot! Everything can be changed within the config!"
+  # set to "false" to disable.
+  field:
+    title: "General"
+    description: "**❯ Client Tag:** %tag% \n**❯ Client ID:** %id% \n\n**❯ Total Guilds:** %guilds% in cache \n**❯ Total Channels:** %channels%  in cache \n**❯ Total Users:** %users% in cache \n\n**❯ Node Version:** %node% \n**❯ SB Version:** v%version% \n**❯ DJS Version:** v%djs%"
+
+################
+# PLACEHOLDERS #
+################
+# %tag% - displays the clients tag (example: Test#0001)
+# %id% - displays the clients ID (example: 739496639605244047)
+# %guilds% - displays how many guilds are in the bots cache
+# %channels% - displays how many channels are in the bots cache
+# %users% - displays how many users are in the bots cache
+# %node% - displays the version of node the bot is running (has V auto included)
+# %version% - displays the version of support bot the bot is running
+# %djs% - displays the version of discord.js the bot is running
